@@ -1,0 +1,17 @@
+{
+  "name": "webhooks",
+  "version": "0.0.1",
+  "repo": "logo/webhooks",
+  "images": [
+    "images/logo-black.svg",
+    "images/logo-white.svg",
+    "images/logo.svg"
+  ],
+  "styles": [
+    "index.css"
+  ],
+  "development": {
+    "logo/logo": "*"
+  },
+  "license": "MIT"
+}

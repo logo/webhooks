@@ -1,0 +1,19 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 80px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  float: left;
+  width: 25%;
+  font-size: 1.5em;
+  margin: 0;
+  padding: 1.8em;
+  text-align: center;
+}
