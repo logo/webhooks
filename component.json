@@ -6,7 +6,7 @@
   "version": "0.0.2",
   "license": "MIT",
   "styles": [
-    "index.css"
+    "style.css"
   ],
   "images": [
     "images/logo.svg",
