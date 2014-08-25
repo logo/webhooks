@@ -1,22 +1,2 @@
-
-/**
- * Webhooks
- */
-
-.logo[data-logo="Webhooks"] {
-  width: 4.033113772em;
-  /* (5.99/1.67) * (1+.065+.065) - .02 */
-}
-
-.logo[data-logo="Webhooks"] > * {
-  background-image: url(images/logo.svg);
-  margin: -.065em 0 -.065em -.02em;
-}
-
-.logo[data-logo="Webhooks"][data-color="black"] > * {
-  background-image: url(images/logo-black.svg);
-}
-
-.logo[data-logo="Webhooks"][data-color="white"] > * {
-  background-image: url(images/logo-white.svg);
-}
+@import 'logo/logo';
+@import './style';
